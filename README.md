@@ -13,7 +13,7 @@
  - 💯 250+ Commands
  - 📚 Easy Hosting
 
-*   **Full List** Of Commands: [Here](https://hydroxbot.xyz/commands).
+*   **Full List** Of Commands: [Here]().
 
 ## Hosting
 
