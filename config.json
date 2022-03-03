@@ -1,11 +1,11 @@
 {
-  "default_prefix": ",",
-  "owners": ["745581095747059722", "440200028292907048", "506505845215985674", "729554449844011130"],
+  "default_prefix": "D",
+  "owners": ["798930462604918794", "", "", ""],
   "timeout": 300000,
-  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=882311254423765012&permissions=8&scope=bot",
-  "error_logs": "Error Channel ID",
-  "success_logs": "Succes Channel ID",
+  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=802927533070352425&permissions=8&scope=bot",
+  "error_logs": "938414499201970177",
+  "success_logs": "938414499201970177",
   "disable_fetching": false,
-  "token": "Bot Token"
+  "token": "ODAyOTI3NTMzMDcwMzUyNDI1.YA2WiQ.ykAn2F9eNwZpONEOotaVTcRA4a4"
 }
 
